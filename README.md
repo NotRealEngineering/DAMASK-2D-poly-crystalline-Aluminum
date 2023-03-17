@@ -4,7 +4,7 @@ This is a code I used in following video:
 
 DAMASK example tutorial | Part-1 | 2D poly-crystalline Aluminum
 
-Link of video: https://youtu.be/sE2qq_LTglk
+Link of video: 
 
 Email: notrealengineering@gmail.com
 
